@@ -1,2 +1,2 @@
 # Bar-o-1B-pensamentocomputacional
-site desenvolvido em litinil e CSS
+site desenvolvido em HTML e CSS
