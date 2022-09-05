@@ -2,3 +2,6 @@ body {
 text-align: center;
 background: hsl(210, 100%, 56%);
 }
+.capa{
+    width: 100%;
+}
